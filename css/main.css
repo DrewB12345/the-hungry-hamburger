@@ -1,0 +1,133 @@
+/*** sectioning elements ***/
+
+body {
+  font-size: 20px;
+  font-family: 'Dekko';
+}
+
+header {
+  background-color: #990000;
+  color: #ccc;
+}
+
+main {
+  background-color: #ccc;
+  color: #990000;
+}
+
+footer {
+  background-color: #990000;
+  color: #ccc;
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+  font-family: 'Fredoka One';
+}
+
+h2 {
+  font-size: 40px;
+  font-family: 'Fredoka One';
+}
+
+h3 {
+  font-family: 'Fredoka One';
+}
+
+h4 {
+  font-family: 'Fredoka One';
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+caption {
+  font-size: 24px;
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+  text-align: center;
+  padding: 10px;
+  line-height: 1.75;
+}
+
+form {
+  text-align: center;
+}
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+  text-decoration: none;
+  color: #f00;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
